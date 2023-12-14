@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oKa8Gscd5eILXGTiKj8IYZoUGHx6lJxj9I1fOk3nQJ4=",
+  "Source": "SampleProductAPI",
+  "BasePath": "_content/SampleProductAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
